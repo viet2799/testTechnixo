@@ -48,4 +48,5 @@ main {
   align-items: center;
   justify-content: center;
   margin-top: 20px;
+  height: 100vh;
 }
