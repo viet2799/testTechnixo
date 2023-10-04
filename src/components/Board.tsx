@@ -128,7 +128,6 @@ const Board: React.FC = () => {
 
   return (
     <div className="board">
-      {/* Render each cell in the board */}
       {items?.map((item: ItemCell, index: number) => (
         <Cell
           key={index}
